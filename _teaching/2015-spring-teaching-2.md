@@ -1,12 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Lecturer"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Brandeis University, Department of Physics"
+date: 2018-01-01
+location: "Waltham, USA"
 ---
+
+Lecturer for introductory physics for non-physics majors.
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
